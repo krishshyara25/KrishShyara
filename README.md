@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishshyara25&label=Profile%20views&color=0e75b6&style=flat" alt="krishshyara25" /> </p>
+
 # Hi there, I'm Krish Shyara! 👋
 # 💫 About Me:
 <br>🎓 I'm currently pursuing **B.Tech in Computer Science** (2024-2028) at **Rai University**.  <br>💻 I'm passionate about **Web Development**, **Backend Development**, and **UI/UX Design**.  <br>🌱 I'm currently learning and building projects with **React.js**, **Node.js**, **MongoDB**, and **Cloud technologies**.  <br>🎯 Always curious to explore and work on innovative ideas!
