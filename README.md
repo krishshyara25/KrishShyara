@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,nodejs,express,nestjs,django,spring,mongodb,postgres,mysql,redis,aws,docker,kubernetes,git,github,githubactions,vscode,linux&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=js,java,react,nextjs,nodejs,express,mongodb,mysql,redis,docker,git,github,vscode&perline=8" alt="Technology icons" />
 </div>
 
 ---
@@ -77,3 +77,4 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
