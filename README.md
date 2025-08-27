@@ -36,6 +36,7 @@
   <img src="https://raw.githubusercontent.com/krishshyara25/krishshyara25/output/github-contribution-grid-snake.svg" alt="Snake game contribution graph"/>
 </div>
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -77,4 +78,5 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
 
